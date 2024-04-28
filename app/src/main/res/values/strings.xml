@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GroceryListApp</string>
+    <string-array name="categories">
+        <item>Food</item>
+        <item>Essentials</item>
+        <item>Miscellaneous</item>
+    </string-array>
+    <string-array name="main_categories">
+        <item>Unsorted</item>
+        <item>Food</item>
+        <item>Essentials</item>
+        <item>Miscellaneous</item>
+    </string-array>
+    <string name="name">Name</string>
+    <string name="name_placeholder">Enter Here…</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm_delete_header">Are you sure you want to delete?</string>
+    <string name="confirm_delete_body">Action is irreversible!</string>
+</resources>
